@@ -7,8 +7,8 @@ I don't want to be ignored because I am a non-major developer, so I study course
 The Lists that I need to Study
 
 1. Deep Learning
-  - Dive into Deep Learning
+  - [Dive into Deep Learning](https://github.com/engineerJPark/Dive-into-DeepLearning)
   - Inflearn CNN
   - Inflearn Computer Vision
 2. Machine Learning
-3. Paper Review and Implementation
+3. [Paper Review and Implementation](https://github.com/engineerJPark/Paper-Implementation-Review)
