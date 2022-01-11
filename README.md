@@ -9,7 +9,7 @@ I don't want to be ignored because I am a non-major developer, so I study course
 The Lists that I need to Study
 
 1. Deep Learning
-  - [CS231N]()
+  - [EECS 498](https://github.com/engineerJPark/EECS-498)
   - [모두의 딥러닝]()
   - [Dive into Deep Learning](https://github.com/engineerJPark/Dive-into-DeepLearning)
 2. Machine Learning
